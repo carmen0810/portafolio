@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.beddb833.css",
+    "main.js": "/portafolio/static/js/main.54632a44.js",
+    "static/js/787.2fe5556a.chunk.js": "/portafolio/static/js/787.2fe5556a.chunk.js",
+    "static/media/md-links.jpg": "/portafolio/static/media/md-links.b707cf6a7844d3116b60.jpg",
+    "static/media/cargill.jpg": "/portafolio/static/media/cargill.4658cef6f971c186c3c1.jpg",
+    "static/media/CARMEN-HERRERA.pdf": "/portafolio/static/media/CARMEN-HERRERA.c70dd8c16e4349a6f55b.pdf",
+    "static/media/Trivia-Cinéfila.jpg": "/portafolio/static/media/Trivia-Cinéfila.1660103b593c397c0731.jpg",
+    "static/media/icon-black.png": "/portafolio/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/PokeMatch.jpg": "/portafolio/static/media/PokeMatch.a2d173b1ea2fb941ad6d.jpg",
+    "static/media/Red-social-petWorld.jpg": "/portafolio/static/media/Red-social-petWorld.e0aaa25bff956f038dbf.jpg",
+    "static/media/AmorSecreto.jpg": "/portafolio/static/media/AmorSecreto.6d035adf49188b0ad16b.jpg",
+    "static/media/github-pink.svg": "/portafolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/portafolio/index.html",
+    "static/media/linkedin-pink.svg": "/portafolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.beddb833.css.map": "/portafolio/static/css/main.beddb833.css.map",
+    "main.54632a44.js.map": "/portafolio/static/js/main.54632a44.js.map",
+    "787.2fe5556a.chunk.js.map": "/portafolio/static/js/787.2fe5556a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beddb833.css",
+    "static/js/main.54632a44.js"
+  ]
+}
