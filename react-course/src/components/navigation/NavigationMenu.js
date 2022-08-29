@@ -5,7 +5,7 @@ const NavigationMenu = (props) => {
     <section className="menu-links">
       <NavLink
         to="/"
-        className=" gray-text "
+        className="gray-text"
         onClick={() => {
           props.ResetLocation();
           props.HideMenu();
