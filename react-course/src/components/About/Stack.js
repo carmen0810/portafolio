@@ -5,6 +5,8 @@ const Stack = () => {
         Estas son algunas de las herramientas y tecnologías con las que he estado trabajando:
         </h3>
         <ol className="stack-section ">
+          <li>React.js</li>
+          <li>Bootstrap</li>
           <li>HTML5</li>
           <li>CSS3</li>
           <li>JavaScript ES6+</li>

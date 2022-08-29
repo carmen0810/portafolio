@@ -3,10 +3,21 @@ import PokeMatch from "../../images/PokeMatch.jpg";
 import AmorSecreto from "../../images/AmorSecreto.jpg";
 import mdlinks from "../../images/md-links.jpg";
 import Trivia from "../../images/Trivia-Cinéfila.jpg";
+import Cargill from "../../images/cargill.jpg"
 
 const ProjectsPreviewData = [
   {
     id: 1,
+    img: Cargill,
+    name: "Cargill-qrs",
+    stack: ["< React.js />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />","< npm />","< Boostrap />"],
+    src: "https://cargill-qrs.web.app/",
+    source: "https://github.com/carmen0810/cargill-qrs",
+    description:
+      "Cargill-qrs es una single page application (SPA) desarrollado usando React para la empresa Cargill. Nuestra aplicación es una interfaz con estado sincrónico para la gestión de las quejas, reclamos y seguimiento de las mismas por Servicio al Cliente.",
+  },
+  {
+    id: 2,
     img: petWorld,
     name: "Red Social petWorld",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />"],
@@ -16,7 +27,7 @@ const ProjectsPreviewData = [
       "PetWorld es una red social dirigida a usuarios que tienen mascotas, esta en modo responsivo.",
   },
   {
-    id: 2,
+    id: 3,
     img: PokeMatch,
     name: "Juego de memoria PokeMach",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
@@ -26,7 +37,7 @@ const ProjectsPreviewData = [
       "Es un juego de memoria con cartas, solo tendrás que voltearlas y hacer match.",
   },
   {
-    id: 3,
+    id: 4,
     img: AmorSecreto,
     name: "Amor Secreto",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
@@ -36,7 +47,7 @@ const ProjectsPreviewData = [
       "Cifrado y decifrado de palabras o textos encriptados.",
   },
   {
-    id: 4,
+    id: 5,
     img: mdlinks,
     name: "md-links-Carmen",
     stack: ["< Node.js />", "< NPM />", "< Git />", "< GitHub />"],
@@ -46,7 +57,7 @@ const ProjectsPreviewData = [
       "Es una librería que permite validar URLs dentro de archivos markdown. Te permitirá obtener: estado de los enlaces, enlaces totales, enlaces únicos y enlaces rotos.",
   },
   {
-    id: 5,
+    id: 6,
     img: Trivia,
     name: "Trivia-Cinéfila",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< CodeSandbox />"],
@@ -60,6 +71,16 @@ const ProjectsPreviewData = [
 const ProjectsData = [
   {
     id: 1,
+    img: Cargill,
+    name: "Cargill-qrs",
+    stack: ["< React.js />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />","< npm />","< Boostrap />"],
+    src: "https://cargill-qrs.web.app/",
+    source: "https://github.com/carmen0810/cargill-qrs",
+    description:
+      "Cargill-qrs es una single page application (SPA) desarrollado usando React para la empresa Cargill. Nuestra aplicación es una interfaz con estado sincrónico para la gestión de las quejas, reclamos y seguimiento de las mismas por Servicio al Cliente.",
+  },
+  {
+    id: 2,
     img: petWorld,
     name: "Red Social petWorld",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />"],
@@ -69,7 +90,7 @@ const ProjectsData = [
       "PetWorld es una red social dirigida a usuarios que tienen mascotas, esta en modo responsivo.",
   },
   {
-    id: 2,
+    id: 3,
     img: PokeMatch,
     name: "Juego de memoria PokeMach",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
@@ -79,7 +100,7 @@ const ProjectsData = [
       "Es un juego de memoria con cartas, solo tendrás que voltearlas y hacer match.",
   },
   {
-    id: 3,
+    id: 4,
     img: AmorSecreto,
     name: "Amor Secreto",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
@@ -89,7 +110,7 @@ const ProjectsData = [
       "Cifrado y decifrado de palabras o textos encriptados.",
   },
   {
-    id: 4,
+    id: 5,
     img: mdlinks,
     name: "md-links-Carmen",
     stack: ["< Node.js />", "< NPM />", "< Git />", "< GitHub />"],
@@ -99,7 +120,7 @@ const ProjectsData = [
       "Es una librería que permite validar URLs dentro de archivos markdown. Te permitirá obtener: estado de los enlaces, enlaces totales, enlaces únicos y enlaces rotos.",
   },
   {
-    id: 5,
+    id: 6,
     img: Trivia,
     name: "Trivia-Cinéfila",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< CodeSandbox />"],

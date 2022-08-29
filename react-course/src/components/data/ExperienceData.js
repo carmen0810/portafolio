@@ -11,13 +11,25 @@ const ExperienceData = [
         `Se empleo el liderazgo, la constancia, la empatia y el trabajo en equipo en cada proyecto.`,
       ],
     },
+    {
+      id: 2,
+      jobtitle: "Front-End Developer",
+      companyname: "Hackathon Regional | Talent Fest - Laboratoria",
+      worktype: "Full-time",
+      duration: "Agosto 2022",
+      location: "Lima, Perú",
+      responsibility: [
+        `4 días intensos de codear en la cual se implemento una innovación y solución al problema que tenia la empresa Cargill.`,
+        `Trabajamos en grupo junto con colaboradoras de la empresa Cargill`,
+      ],
+    },
   ];
   
   const EducationData = [
     {
       name: "Laboratoria",
       status: "Front-End Developer",
-      year: "2022",
+      year: "Enero 2022 - Julio 2022",
     },
   ];
   
