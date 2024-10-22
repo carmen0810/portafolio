@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.768f7b6d.css",
+    "main.js": "/portafolio/static/js/main.e8e1eb6e.js",
+    "static/js/787.2fe5556a.chunk.js": "/portafolio/static/js/787.2fe5556a.chunk.js",
+    "static/media/tucambiototal.jpeg": "/portafolio/static/media/tucambiototal.4699f2252304152483e8.jpeg",
+    "static/media/CARMEN-HERRERA.pdf": "/portafolio/static/media/CARMEN-HERRERA.a224b312c5e9f70dbe15.pdf",
+    "static/media/imagen5.jpeg": "/portafolio/static/media/imagen5.3bff5d3f54728b8101fa.jpeg",
+    "static/media/imagen3.jpeg": "/portafolio/static/media/imagen3.2f3da80ef18069bedd94.jpeg",
+    "static/media/RRHH.jpeg": "/portafolio/static/media/RRHH.71bebc7ab1057a55d129.jpeg",
+    "static/media/md-links.jpg": "/portafolio/static/media/md-links.b707cf6a7844d3116b60.jpg",
+    "static/media/muomarket.jpeg": "/portafolio/static/media/muomarket.a230abc8d7382aa9aded.jpeg",
+    "static/media/imagen4.jpeg": "/portafolio/static/media/imagen4.5b51883f2a706ccdb9d2.jpeg",
+    "static/media/cargill.jpg": "/portafolio/static/media/cargill.4658cef6f971c186c3c1.jpg",
+    "static/media/GestorAdministratvo.jpeg": "/portafolio/static/media/GestorAdministratvo.26d8a6db7456f4473f1b.jpeg",
+    "static/media/icon-black.png": "/portafolio/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/PokeMatch.jpg": "/portafolio/static/media/PokeMatch.a2d173b1ea2fb941ad6d.jpg",
+    "static/media/imagen2.jpeg": "/portafolio/static/media/imagen2.a177f69ddbf6f759f8ed.jpeg",
+    "static/media/Red-social-petWorld.jpg": "/portafolio/static/media/Red-social-petWorld.e0aaa25bff956f038dbf.jpg",
+    "static/media/github-pink.svg": "/portafolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "index.html": "/portafolio/index.html",
+    "static/media/linkedin-pink.svg": "/portafolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.768f7b6d.css.map": "/portafolio/static/css/main.768f7b6d.css.map",
+    "main.e8e1eb6e.js.map": "/portafolio/static/js/main.e8e1eb6e.js.map",
+    "787.2fe5556a.chunk.js.map": "/portafolio/static/js/787.2fe5556a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768f7b6d.css",
+    "static/js/main.e8e1eb6e.js"
+  ]
+}
