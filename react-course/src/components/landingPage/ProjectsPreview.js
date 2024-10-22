@@ -18,12 +18,7 @@ const ProjectsPreview = () => {
               ))}
             </section>
             <section className="project-links">
-              <a href={project.src} target="_blank" rel="noreferrer">
-                <img src={ExternalLink} alt=""></img>
-              </a>
-              <a href={project.source} target="_blank" rel="noreferrer">
-                <img src={GithubRepo} alt=""></img>
-              </a>
+             
             </section>
           </section>
         </section>

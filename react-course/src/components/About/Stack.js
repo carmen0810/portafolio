@@ -17,6 +17,11 @@ const Stack = () => {
           <li>Git</li>
           <li>Figma</li>
           <li>Visual Studio Code</li>
+          <li>Adobe Ilustrador</li>
+          <li>Zeplin</li>
+          <li>Marvel App</li>
+          <li>UserTesting</li>
+          <li>Adobe Photoshop</li>
         </ol>
       </>
     );

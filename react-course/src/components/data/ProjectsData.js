@@ -1,9 +1,16 @@
 import petWorld from "../../images/Red-social-petWorld.jpg";
 import PokeMatch from "../../images/PokeMatch.jpg";
-import AmorSecreto from "../../images/AmorSecreto.jpg";
 import mdlinks from "../../images/md-links.jpg";
-import Trivia from "../../images/Trivia-Cinéfila.jpg";
 import Cargill from "../../images/cargill.jpg"
+
+import GestorAdmin from "../../images/GestorAdministratvo.jpeg";
+import DetectorDNI from "../../images/imagen2.jpeg";
+import Gym from "../../images/imagen3.jpeg";
+import Finanzas from "../../images/imagen4.jpeg";
+import Votacion from "../../images/imagen5.jpeg";
+import Tienda from "../../images/muomarket.jpeg";
+import RecursosHumanos from "../../images/RRHH.jpeg";
+import CasadeCambio from "../../images/tucambiototal.jpeg";
 
 const ProjectsPreviewData = [
   {
@@ -11,8 +18,6 @@ const ProjectsPreviewData = [
     img: Cargill,
     name: "Cargill-qrs",
     stack: ["< React.js />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />","< npm />","< Boostrap />"],
-    src: "https://cargill-qrs.web.app/",
-    source: "https://github.com/carmen0810/cargill-qrs",
     description:
       "Cargill-qrs es una single page application (SPA) desarrollado usando React para la empresa Cargill. Nuestra aplicación es una interfaz con estado sincrónico para la gestión de las quejas, reclamos y seguimiento de las mismas por Servicio al Cliente.",
   },
@@ -21,8 +26,6 @@ const ProjectsPreviewData = [
     img: petWorld,
     name: "Red Social petWorld",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />"],
-    src: "https://lim-017-social-network-kw812atq5-cinthiavb.vercel.app/",
-    source: "https://github.com/carmen0810/LIM017-social-network",
     description:
       "PetWorld es una red social dirigida a usuarios que tienen mascotas, esta en modo responsivo.",
   },
@@ -31,40 +34,32 @@ const ProjectsPreviewData = [
     img: PokeMatch,
     name: "Juego de memoria PokeMach",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
-    src: "https://carmen0810.github.io/LIM017-memory-match/",
-    source: "https://github.com/carmen0810/LIM017-memory-match",
     description:
       "Es un juego de memoria con cartas, solo tendrás que voltearlas y hacer match.",
   },
   {
     id: 4,
-    img: AmorSecreto,
-    name: "Amor Secreto",
-    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
-    src: "https://carmen0810.github.io/LIM017-cipher/",
-    source: "https://github.com/carmen0810/LIM017-cipher",
-    description:
-      "Cifrado y decifrado de palabras o textos encriptados.",
-  },
-  {
-    id: 5,
     img: mdlinks,
     name: "md-links-Carmen",
     stack: ["< Node.js />", "< NPM />", "< Git />", "< GitHub />"],
-    src: "https://www.npmjs.com/package/md-links-carmen",
-    source: "https://github.com/carmen0810/LIM017-md-links",
     description:
       "Es una librería que permite validar URLs dentro de archivos markdown. Te permitirá obtener: estado de los enlaces, enlaces totales, enlaces únicos y enlaces rotos.",
   },
   {
-    id: 6,
-    img: Trivia,
-    name: "Trivia-Cinéfila",
-    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< CodeSandbox />"],
-    src: "https://nw3o6.csb.app/",
-    source: "https://codesandbox.io/s/admiring-shadow-nw3o6?file=/juego.js",
+    id: 5,
+    img: GestorAdmin,
+    name: "Gestor administrativo",
+    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />"],
     description:
-      "Es una trivia donde el usuario tiene que marcar la respuesta correcta o incorrecta,dependiendo de su respuesta suma 1 punto si la respuesta es correcta, si es incorrecta no suma puntos.",
+      "Programe el front-end para una plataforma de gestor de actividades para los colaboradores.",
+  },
+  {
+    id: 6,
+    img: DetectorDNI,
+    name: "Detector de documentos DNI y carnet extranjería",
+    stack: ["< Marvel App />"],
+    description:
+      "Diseñe la UI del flujo de escanear documento de identidad.",
   },
 ];
 
@@ -74,8 +69,6 @@ const ProjectsData = [
     img: Cargill,
     name: "Cargill-qrs",
     stack: ["< React.js />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />","< npm />","< Boostrap />"],
-    src: "https://cargill-qrs.web.app/",
-    source: "https://github.com/carmen0810/cargill-qrs",
     description:
       "Cargill-qrs es una single page application (SPA) desarrollado usando React para la empresa Cargill. Nuestra aplicación es una interfaz con estado sincrónico para la gestión de las quejas, reclamos y seguimiento de las mismas por Servicio al Cliente.",
   },
@@ -84,8 +77,6 @@ const ProjectsData = [
     img: petWorld,
     name: "Red Social petWorld",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Firebase />","< Git />","< GitHub />"],
-    src: "https://lim-017-social-network-kw812atq5-cinthiavb.vercel.app/",
-    source: "https://github.com/carmen0810/LIM017-social-network",
     description:
       "PetWorld es una red social dirigida a usuarios que tienen mascotas, esta en modo responsivo.",
   },
@@ -94,40 +85,80 @@ const ProjectsData = [
     img: PokeMatch,
     name: "Juego de memoria PokeMach",
     stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
-    src: "https://carmen0810.github.io/LIM017-memory-match/",
-    source: "https://github.com/carmen0810/LIM017-memory-match",
     description:
       "Es un juego de memoria con cartas, solo tendrás que voltearlas y hacer match.",
   },
   {
     id: 4,
-    img: AmorSecreto,
-    name: "Amor Secreto",
-    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Git />", "< GitHub />"],
-    src: "https://carmen0810.github.io/LIM017-cipher/",
-    source: "https://github.com/carmen0810/LIM017-cipher",
-    description:
-      "Cifrado y decifrado de palabras o textos encriptados.",
-  },
-  {
-    id: 5,
     img: mdlinks,
     name: "md-links-Carmen",
     stack: ["< Node.js />", "< NPM />", "< Git />", "< GitHub />"],
-    src: "https://www.npmjs.com/package/md-links-carmen",
-    source: "https://github.com/carmen0810/LIM017-md-links",
     description:
       "Es una librería que permite validar URLs dentro de archivos markdown. Te permitirá obtener: estado de los enlaces, enlaces totales, enlaces únicos y enlaces rotos.",
   },
   {
-    id: 6,
-    img: Trivia,
-    name: "Trivia-Cinéfila",
-    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< CodeSandbox />"],
-    src: "https://nw3o6.csb.app/",
-    source: "https://codesandbox.io/s/admiring-shadow-nw3o6?file=/juego.js",
+    id: 5,
+    img: GestorAdmin,
+    name: "Gestor administrativo",
+    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />"],
     description:
-      "Es una trivia donde el usuario tiene que marcar la respuesta correcta o incorrecta,dependiendo de su respuesta suma 1 punto si la respuesta es correcta, si es incorrecta no suma puntos.",
+      "Programe el front-end para una plataforma de gestor de actividades para los colaboradores.",
+  },
+  {
+    id: 6,
+    img: DetectorDNI,
+    name: "Detector de documentos DNI y carnet extranjería",
+    stack: ["< Marvel App />"],
+    description:
+      "Diseñe la UI del flujo de escanear documento de identidad.",
+  },
+  {
+    id: 7,
+    img: Gym,
+    name: "Software para gimnasios",
+    stack: ["< Figma />"],
+    description:
+      "Diseñe la UI para un plataforma de Gimnasios",
+  },
+  {
+    id: 8,
+    img: Finanzas,
+    name: "Software para la gestión de finanzas",
+    stack: ["< Zeplin />"],
+    description:
+      "Diseñe la UI de la plataforma de finanzas personales.",
+  },
+  {
+    id: 9,
+    img: Votacion,
+    name: "Sistema de votación de partidos políticos",
+    stack: ["< Figma />"],
+    description:
+      "Diseñe la UI del sistema para un partido político",
+  },
+  {
+    id: 10,
+    img: Tienda,
+    name: "Plataforma de compra y venta al por menor",
+    stack: ["< UserTesting />", "< Figma />"],
+    description:
+      "Implemente la experiencia de usuario de todo el proceso de compra, venta y delivery",
+  },
+  {
+    id: 11,
+    img: RecursosHumanos,
+    name: "Software de recursos humanos",
+    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />"],
+    description:
+      "Realice el front-end del sistema"
+  },
+  {
+    id: 12,
+    img: CasadeCambio,
+    name: "Plataforma de casa de cambio",
+    stack: ["< JavaScript />", "< CSS3 />", "< HTML5 />", "< Figma />"],
+    description:
+      "Diseñe la UI y programe el front-end de la página web.",
   },
 ];
 

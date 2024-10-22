@@ -1,13 +1,13 @@
 const ExperienceData = [
     {
       id: 1,
-      jobtitle: "Front-End Developer",
-      companyname: "Laboratoria",
+      jobtitle: "UI Designer",
+      companyname: "Crivant S.A.C",
       worktype: "Full-time",
-      duration: "Enero 2022 - Julio 2022",
+      duration: "Agosto 2022 - Septiembre 2024",
       location: "Lima, Perú",
       responsibility: [
-        `Estube en un bootcamp intensivo por 6 meses, en la cual desarrolle distintos proyectos donde se empleo directamente en la practica lenguajes, frameworks y herramientas de programación.`,
+        `Diseñé interfaces atractivas, coherentes y que sigan las guías de estilo visual de la empresa o del cliente. Colaboré con desarrolladores y con el equipo de UX para construir prototipos funcionales asegurándome de que las interfaces funcionen bien en diferentes dispositivos y resoluciones, realizando también retroalimentación con usuarios y del equipo para ajustar y optimizar la interfaz según las necesidades del proyecto..`,
         `Se empleo el liderazgo, la constancia, la empatia y el trabajo en equipo en cada proyecto.`,
       ],
     },
@@ -19,13 +19,69 @@ const ExperienceData = [
       duration: "Agosto 2022",
       location: "Lima, Perú",
       responsibility: [
-        `4 días intensos de codear en la cual se implemento una innovación y solución al problema que tenia la empresa Cargill.`,
+        `4 días intensos de planificar, diseñar(UI), retroalimentación con usuarios(UX) y el desarrollo Front-End en la cual se implemento una innovación y la solución nos basamos a su principal problema que tenia la empresa Cargill.`,
         `Trabajamos en grupo junto con colaboradoras de la empresa Cargill`,
+      ],
+    },
+    {
+      id: 3,
+      jobtitle: "Community Manager",
+      companyname: "Escala Pixel- Agencia de Marketing",
+      worktype: "Full-time",
+      duration: "Febrero 2021 - Junio 2022",
+      location: "Lima, Perú",
+      responsibility: [
+        `Generé contenido creativo para sus campañas publicitaras, logrando un incremento del 70% de nuevos clientes.
+        Gestioné la comunicación online con los clientes, en los distintos canales digitales , realice el posicionamiento de su pagina web (SEM)
+        `,
+        `Se empleo la constancia, la empatia y el trabajo en equipo para generar mes a mes un porcetanje de ventas significativas y mantener la fidelidad de los cientes.`,
+      ],
+    },
+    {
+      id: 4,
+      jobtitle: "Community Manager",
+      companyname: "Probiee - Empresa de Moda, Calzado",
+      worktype: "Full-time",
+      duration: "Febrero 2019 - Diciembre 2020",
+      location: "Lima, Perú",
+      responsibility: [
+        `eneré contenido digital para redes sociales en Meta ADS , logrando un incremento del 40% de nuevos clientes. Gestioné la comunicación online con los clientes, en los distintos canales digitales y realice el posicionamiento de su página web.`,
+        `Se empleo la constancia, la empatia y el trabajo en equipo para generar mes a mes un porcetanje de ventas significativas y mantener la fidelidad de los clientes.`,
+      ],
+    },
+    {
+      id: 5,
+      jobtitle: "Asesora de cobranzas(call center)",
+      companyname: "Estudio de abogados Yarnold",
+      worktype: "Full-time",
+      duration: "Enero 2018 - Noviembre 2018",
+      location: "Lima, Perú",
+      responsibility: [
+        ` Asesore a clientes con deudas castigadas y vigentes de Scotiabank , dándoles facilidad de pago para que dejen de ser morosos, la atención era mediante call center.`,
+        `Aprendi a trabajar en grupo colaborativamente ,a ser perseverante y ser flexible.`,
+      ],
+    },
+    {
+      id: 6,
+      jobtitle: "Recepcionista",
+      companyname: "Imprenta Alfaniper",
+      worktype: "Full-time",
+      duration: "Marzo 2016 - Septiembre 2017",
+      location: "Lima, Perú",
+      responsibility: [
+        ` Contestaba las llamadas de clientes para solicitar algún pedido y solucionar alguna duda que se presentaba.`,
+        `Aprendí a negociar y a ser constante con los clientes.`,
       ],
     },
   ];
   
   const EducationData = [
+    {
+      name: "SISE",
+      status: "Desarrollo de Sistemas",
+      year: "Enero 2024 - Actualidad",
+    },
+    
     {
       name: "Laboratoria",
       status: "Front-End Developer",
