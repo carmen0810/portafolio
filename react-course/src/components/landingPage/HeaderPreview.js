@@ -6,9 +6,9 @@ const HeaderPreview = () => {
       <h1 className="header-font white-text h1-tag">
         Hola, soy <br></br>
         <em className="pink-text">Carmen Herrera</em>
-        <br></br>UI/UX Desing
+        <br></br>Fron-End Developer
       </h1>
-      <p className="gray-text p-tag">UI/UX DESIGN</p>
+      <p className="gray-text p-tag">Fron-End Developer</p>
       {/* <Link className="pink-text" to="/personal-portfolio/portfolio">
         Revisa mi trabajo
       </Link> */}
