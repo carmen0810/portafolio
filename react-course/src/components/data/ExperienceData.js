@@ -1,10 +1,10 @@
 const ExperienceData = [
     {
       id: 1,
-      jobtitle: "UI Designer",
+      jobtitle: "UI/UX Designer",
       companyname: "Crivant S.A.C",
       worktype: "Full-time",
-      duration: "Agosto 2022 - Septiembre 2024",
+      duration: "Agosto 2022 - Diciembre 2024",
       location: "Lima, Perú",
       responsibility: [
         `Diseñé interfaces atractivas, coherentes y que sigan las guías de estilo visual de la empresa o del cliente. Colaboré con desarrolladores y con el equipo de UX para construir prototipos funcionales asegurándome de que las interfaces funcionen bien en diferentes dispositivos y resoluciones, realizando también retroalimentación con usuarios y del equipo para ajustar y optimizar la interfaz según las necesidades del proyecto..`,
