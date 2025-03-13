@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.768f7b6d.css",
-    "main.js": "/portafolio/static/js/main.e8e1eb6e.js",
+    "main.js": "/portafolio/static/js/main.dd3fd5f8.js",
     "static/js/787.2fe5556a.chunk.js": "/portafolio/static/js/787.2fe5556a.chunk.js",
     "static/media/tucambiototal.jpeg": "/portafolio/static/media/tucambiototal.4699f2252304152483e8.jpeg",
-    "static/media/CARMEN-HERRERA.pdf": "/portafolio/static/media/CARMEN-HERRERA.a224b312c5e9f70dbe15.pdf",
     "static/media/imagen5.jpeg": "/portafolio/static/media/imagen5.3bff5d3f54728b8101fa.jpeg",
+    "static/media/CARMEN-HERRERA.pdf": "/portafolio/static/media/CARMEN-HERRERA.b405db3badc7fe90fe46.pdf",
     "static/media/imagen3.jpeg": "/portafolio/static/media/imagen3.2f3da80ef18069bedd94.jpeg",
     "static/media/RRHH.jpeg": "/portafolio/static/media/RRHH.71bebc7ab1057a55d129.jpeg",
     "static/media/md-links.jpg": "/portafolio/static/media/md-links.b707cf6a7844d3116b60.jpg",
@@ -21,11 +21,11 @@
     "index.html": "/portafolio/index.html",
     "static/media/linkedin-pink.svg": "/portafolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.768f7b6d.css.map": "/portafolio/static/css/main.768f7b6d.css.map",
-    "main.e8e1eb6e.js.map": "/portafolio/static/js/main.e8e1eb6e.js.map",
+    "main.dd3fd5f8.js.map": "/portafolio/static/js/main.dd3fd5f8.js.map",
     "787.2fe5556a.chunk.js.map": "/portafolio/static/js/787.2fe5556a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.768f7b6d.css",
-    "static/js/main.e8e1eb6e.js"
+    "static/js/main.dd3fd5f8.js"
   ]
 }
