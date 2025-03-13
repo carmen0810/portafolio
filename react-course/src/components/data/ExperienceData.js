@@ -1,13 +1,13 @@
 const ExperienceData = [
     {
       id: 1,
-      jobtitle: "UI/UX Designer",
+      jobtitle: "Front-End Developer",
       companyname: "Crivant S.A.C",
       worktype: "Full-time",
       duration: "Agosto 2022 - Diciembre 2024",
       location: "Lima, Perú",
       responsibility: [
-        `Diseñé interfaces atractivas, coherentes y que sigan las guías de estilo visual de la empresa o del cliente. Colaboré con desarrolladores y con el equipo de UX para construir prototipos funcionales asegurándome de que las interfaces funcionen bien en diferentes dispositivos y resoluciones, realizando también retroalimentación con usuarios y del equipo para ajustar y optimizar la interfaz según las necesidades del proyecto..`,
+        `Desarrolle plataformas de casa de cambio, colegios, entre otras plataformas. Diseñé tambien interfaces atractivas, coherentes y que sigan las guías de estilo visual de la empresa o del cliente (UX UI Designer) colaboré con desarrolladores y con el equipo de UX para construir prototipos funcionales asegurándome de que las interfaces funcionen bien en diferentes dispositivos y resoluciones, realizando también retroalimentación con usuarios y del equipo para ajustar y optimizar la interfaz según las necesidades del proyecto..`,
         `Se empleo el liderazgo, la constancia, la empatia y el trabajo en equipo en cada proyecto.`,
       ],
     },
@@ -19,8 +19,8 @@ const ExperienceData = [
       duration: "Agosto 2022",
       location: "Lima, Perú",
       responsibility: [
-        `4 días intensos de planificar, diseñar(UI), retroalimentación con usuarios(UX) y el desarrollo Front-End en la cual se implemento una innovación y la solución nos basamos a su principal problema que tenia la empresa Cargill.`,
-        `Trabajamos en grupo junto con colaboradoras de la empresa Cargill`,
+        `4 días intensos de planificación, diseñar prototipo(UI), retroalimentación con usuarios(UX) y el desarrollo Front-End en la cual se implemento una innovación y la solución nos basamos a su principal problema que tenia la empresa Cargill.`,
+        `Trabajamos bajo las necesidad de la empresa junto con colaboradoras de la empresa Cargill`,
       ],
     },
     {
