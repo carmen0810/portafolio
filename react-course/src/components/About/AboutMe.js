@@ -3,7 +3,7 @@ const AboutMe = () => {
       <section>
         <h2 className="title-font pink-text h2-tag">Sobre Mi</h2>
         <p className="white-text p-tag">
-          Soy una profesional egresada de Laboratoria y apasionada
+          Soy una egresada de Laboratoria y apasionada
           por UI UX Desing y la Programación Front-End . En mi experiencia laboral 
           previa, encontré muchas oportunidades de mejora en las 
           herramientas tecnológicas que se utilizaban. 
