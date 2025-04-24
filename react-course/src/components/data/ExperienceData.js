@@ -16,14 +16,16 @@ const ExperienceData = [
     },
     {
       id: 2,
-      jobtitle: "Front-End Developer",
-      companyname: "Hackathon Regional | Talent Fest - Laboratoria",
+      jobtitle: "Desarrolladora Front-End",
+      companyname: "Crivant S.A.C",
       worktype: "Full-time",
-      duration: "Agosto 2022",
+      duration: "Agosto 2023 - Febrero 2024",
       location: "Lima, Perú",
       responsibility: [
-        `4 días intensos de planificación, diseñar prototipo(UI), retroalimentación con usuarios(UX) y el desarrollo Front-End en la cual se implemento una innovación y la solución nos basamos a su principal problema que tenia la empresa Cargill.`,
-        `Trabajamos bajo las necesidad de la empresa junto con colaboradoras de la empresa Cargill`,
+        `Diseñé la interfaz de usuario para un sistema de votación como PWA.`,
+        `Implementé un módulo de boletas de pago en un sistema de recursos humanos.`,
+        `Desarrollé un sistema de asistencia de personal bajo el patrón MVVM.`,
+        `TECNOLOGÍAS APLICADAS: React JS, React Native, Redux, JavaScript, TypeScript, Git, GitHub, Docker, SonarQube.`,
       ],
     },
     {
