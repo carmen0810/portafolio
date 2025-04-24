@@ -26,7 +26,7 @@ const ProjectsPreviewData = [
     name: "Sistema de Recursos Humanos",
     stack: ["< React JS />", "< React Native />"],
     description:
-      "Desarrollé la plataforma web y app usando React JS y React Native.",
+     "Desarrollo de un sistema de Recursos Humanos, usando React JS y React Native.",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const ProjectsPreviewData = [
     name: "Sistema de votación de partidos políticos",
     stack: ["< React JS />", "< Bootstrap 5 />", "< Figma />"],
     description:
-      "PWA desarrollada con React JS, Bootstrap 5 y diseño de UI en Figma.",
+      "Desarrollo de una sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ const ProjectsPreviewData = [
     name: "Plataforma de casa de cambio",
     stack: ["< React JS />", "< Bootstrap 4 />", "< Figma />"],
     description:
-      "Se implementó con React JS y Bootstrap 4, UI diseñada en Figma.",
+      "Desarrollo de una plataforma de casa de cambio, usando React JS y Bootstrap 4, UI diseñada en Figma.",
   },
   {
     id: 5,
@@ -50,7 +50,7 @@ const ProjectsPreviewData = [
     name: "Plataforma educativa",
     stack: ["< VueJS />", "< Vuetify />", "< Firebase />"],
     description:
-      "Desarrollo frontend en VueJS y Vuetify, con Firebase como backend.",
+      "Desarrollo de una plataforma educativa, usando VueJS y Vuetify, con Firebase como backend.",
   },
   {
     id: 6,
@@ -78,7 +78,7 @@ const ProjectsData = [
     name: "Sistema de Recursos Humanos",
     stack: ["< React JS />", "< React Native />"],
     description:
-      "Desarrollé la plataforma web y app usando React JS y React Native.",
+      "Desarrollo de un sistema de Recursos Humanos, usando React JS y React Native.",
   },
   {
     id: 3,
@@ -86,7 +86,7 @@ const ProjectsData = [
     name: "Sistema de votación de partidos políticos",
     stack: ["< React JS />", "< Bootstrap 5 />", "< Figma />"],
     description:
-      "PWA desarrollada con React JS, Bootstrap 5 y diseño de UI en Figma.",
+      "Desarrollo de una sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
   },
   {
     id: 4,
@@ -94,7 +94,7 @@ const ProjectsData = [
     name: "Plataforma de casa de cambio",
     stack: ["< React JS />", "< Bootstrap 4 />", "< Figma />"],
     description:
-      "Se implementó con React JS y Bootstrap 4, UI diseñada en Figma.",
+      "Desarrollo de una plataforma de casa de cambio, usando React JS y Bootstrap 4, UI diseñada en Figma.",
   },
   {
     id: 5,
@@ -102,7 +102,7 @@ const ProjectsData = [
     name: "Plataforma educativa",
     stack: ["< VueJS />", "< Vuetify />", "< Firebase />"],
     description:
-      "Desarrollo frontend en VueJS y Vuetify, con Firebase como backend.",
+      "Desarrollo de una plataforma educativa, usando VueJS y Vuetify, con Firebase como backend.",
   },
   {
     id: 6,
@@ -118,7 +118,7 @@ const ProjectsData = [
     name: "Detector de documentos DNI y carnet extranjería",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñe la UI de un detector de documentos como DNI o Carnet de Extranjería, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 8,
@@ -126,7 +126,7 @@ const ProjectsData = [
     name: "Software para gimnasios",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñe la UI de la plataforma para un Gimnasio, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 9,
@@ -134,7 +134,7 @@ const ProjectsData = [
     name: "Software para la gestión de finanzas",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñe la UI de la plataforma para un gestor de finanzas, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 10,
@@ -142,7 +142,7 @@ const ProjectsData = [
     name: "Plataforma de compra y venta al por menor",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñe la UI de la plataforma para una tienda de compra y venta de productos, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 11,
