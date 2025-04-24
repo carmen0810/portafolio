@@ -6,7 +6,9 @@ export const Languages = () => {
           <section>
             <section>
               <h3>Ingles</h3>
-              <p>Nivel básico principiante</p>
+              <p>Nivel básico</p>
+              <h3>Español</h3>
+              <p>Nativo</p>
             </section>
           </section>
         </section>
