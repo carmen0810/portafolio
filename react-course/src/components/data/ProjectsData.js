@@ -34,7 +34,7 @@ const ProjectsPreviewData = [
     name: "Sistema de votación de partidos políticos",
     stack: ["< React JS />", "< Bootstrap 5 />", "< Figma />"],
     description:
-      "Desarrollo de una sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
+      "Desarrollo de un sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
   },
   {
     id: 4,
@@ -86,7 +86,7 @@ const ProjectsData = [
     name: "Sistema de votación de partidos políticos",
     stack: ["< React JS />", "< Bootstrap 5 />", "< Figma />"],
     description:
-      "Desarrollo de una sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
+      "Desarrollo de un sistema de votación de un Partido Político, usando React JS, Bootstrap 5 y diseño de UI en Figma.",
   },
   {
     id: 4,
@@ -118,7 +118,7 @@ const ProjectsData = [
     name: "Detector de documentos DNI y carnet extranjería",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de un detector de documentos como DNI o Carnet de Extranjería, de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñé la UI de un detector de documentos como DNI o Carnet de Extranjería, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 8,
@@ -126,7 +126,7 @@ const ProjectsData = [
     name: "Software para gimnasios",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma para un Gimnasio, de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñé la UI de la plataforma para un Gimnasio, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 9,
@@ -134,7 +134,7 @@ const ProjectsData = [
     name: "Software para la gestión de finanzas",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma para un gestor de finanzas, de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñé la UI de la plataforma para un gestor de finanzas, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 10,
@@ -142,7 +142,7 @@ const ProjectsData = [
     name: "Plataforma de compra y venta al por menor",
     stack: ["< Figma />"],
     description:
-      "Diseñe la UI de la plataforma para una tienda de compra y venta de productos, de manera funcional, intuitiva y adaptada al usuario final",
+      "Diseñé la UI de la plataforma para una tienda de compra y venta de productos, de manera funcional, intuitiva y adaptada al usuario final",
   },
   {
     id: 11,

@@ -1,14 +1,17 @@
 const ExperienceData = [
     {
       id: 1,
-      jobtitle: "Front-End Developer",
-      companyname: "Crivant S.A.C",
+      jobtitle: "Desarrolladora Front-End",
+      companyname: "Escala Pixel SAC",
       worktype: "Full-time",
-      duration: "Agosto 2022 - Diciembre 2024",
+      duration: "Abril 2024 - Marzo 2025",
       location: "Lima, Perú",
       responsibility: [
-        `Desarrolle plataformas de casa de cambio, colegios, entre otras plataformas. Diseñé tambien interfaces atractivas, coherentes y que sigan las guías de estilo visual de la empresa o del cliente (UX UI Designer) colaboré con desarrolladores y con el equipo de UX para construir prototipos funcionales asegurándome de que las interfaces funcionen bien en diferentes dispositivos y resoluciones, realizando también retroalimentación con usuarios y del equipo para ajustar y optimizar la interfaz según las necesidades del proyecto..`,
-        `Se empleo el liderazgo, la constancia, la empatia y el trabajo en equipo en cada proyecto.`,
+        `Implementé una solución hacia el módulo administrativo mejorando la interfaz de usuario.`,
+        `Reduje errores de inserción de datos en el módulo de pagos.`,
+        `Desarrollé nuevos módulos para la gestión del área de Marketing.`,
+        `TECNOLOGÍAS APLICADAS: JavaScript, TypeScript, React JS, React Native, Redux, HTML, CSS, Docker, Jira, WebApi.
+`,
       ],
     },
     {
