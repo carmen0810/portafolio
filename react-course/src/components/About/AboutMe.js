@@ -3,19 +3,12 @@ const AboutMe = () => {
       <section>
         <h2 className="title-font pink-text h2-tag">Sobre Mi</h2>
         <p className="white-text p-tag">
-          Soy una egresada de Laboratoria y apasionada
-          por UI UX Desing y la Programación Front-End . En mi experiencia laboral 
-          previa, encontré muchas oportunidades de mejora en las 
-          herramientas tecnológicas que se utilizaban. 
-          Ahí surgió mí curiosidad de averiguar cómo se creaban 
-          esas plataformas con el fin de mejorar la experiencia 
-          del usuario. Disfruto de la creación y el diseño de sitios web y apps
-          hermosos, accesibles y responsivos usando 
-          Figma, HTML, CSS, JavaScript ES6+. 
-          El uso eficaz del tiempo, la resolución de problemas 
-          y la comunicación me ayudan a mostrar una actitud 
-          positiva en situaciones complejas, y mi deseo de 
-          aprender rápidamente me hace adaptar a esas situaciones.
+        Desarrolladora Front-End con más de 2 años de experiencia desarrollando interfaces modernas, 
+        responsivas y accesibles utilizando React JS, React Native, JavaScript y TypeScript. 
+        Apasionada por mejorar la experiencia de usuario 
+        e integrar soluciones tecnológicas de calidad en proyectos web y móviles. 
+        Experiencia trabajando con servicios RESTful, metodologías ágiles (Scrum) y herramientas de control 
+        de versiones y diseño colaborativo como Git, Figma.
         </p>
       </section>
     );
