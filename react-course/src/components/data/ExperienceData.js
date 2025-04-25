@@ -30,77 +30,87 @@ const ExperienceData = [
     },
     {
       id: 3,
-      jobtitle: "Community Manager",
-      companyname: "Escala Pixel- Agencia de Marketing",
+      jobtitle: "Desarrolladora Front-End",
+      companyname: "TrinetSoft",
       worktype: "Full-time",
-      duration: "Febrero 2021 - Junio 2022",
+      duration: "Agosto 2022 - Junio 2023",
       location: "Lima, Perú",
       responsibility: [
-        `Generé contenido creativo para sus campañas publicitaras, logrando un incremento del 70% de nuevos clientes.
-        Gestioné la comunicación online con los clientes, en los distintos canales digitales , realice el posicionamiento de su pagina web (SEM)
-        `,
-        `Se empleo la constancia, la empatia y el trabajo en equipo para generar mes a mes un porcetanje de ventas significativas y mantener la fidelidad de los cientes.`,
-      ],
-    },
-    {
-      id: 4,
-      jobtitle: "Community Manager",
-      companyname: "Probiee - Empresa de Moda, Calzado",
-      worktype: "Full-time",
-      duration: "Febrero 2019 - Diciembre 2020",
-      location: "Lima, Perú",
-      responsibility: [
-        `eneré contenido digital para redes sociales en Meta ADS , logrando un incremento del 40% de nuevos clientes. Gestioné la comunicación online con los clientes, en los distintos canales digitales y realice el posicionamiento de su página web.`,
-        `Se empleo la constancia, la empatia y el trabajo en equipo para generar mes a mes un porcetanje de ventas significativas y mantener la fidelidad de los clientes.`,
-      ],
-    },
-    {
-      id: 5,
-      jobtitle: "Asesora de cobranzas(call center)",
-      companyname: "Estudio de abogados Yarnold",
-      worktype: "Full-time",
-      duration: "Enero 2018 - Noviembre 2018",
-      location: "Lima, Perú",
-      responsibility: [
-        ` Asesore a clientes con deudas castigadas y vigentes de Scotiabank , dándoles facilidad de pago para que dejen de ser morosos, la atención era mediante call center.`,
-        `Aprendi a trabajar en grupo colaborativamente ,a ser perseverante y ser flexible.`,
-      ],
-    },
-    {
-      id: 6,
-      jobtitle: "Recepcionista",
-      companyname: "Imprenta Alfaniper",
-      worktype: "Full-time",
-      duration: "Marzo 2016 - Septiembre 2017",
-      location: "Lima, Perú",
-      responsibility: [
-        ` Contestaba las llamadas de clientes para solicitar algún pedido y solucionar alguna duda que se presentaba.`,
-        `Aprendí a negociar y a ser constante con los clientes.`,
+        `Automatización del registro de asistencia mediante integración con sistema biométrico(huella dactilar).`,
+        `Mejora de flujos internos del área de soporte técnico.`,
+        `Desarrollo de módulos para un sistema de gestión de restaurantes.`,
+        `TECNOLOGÍAS APLICADAS: Bootstrap, HTML, CSS, JavaScript, FullCalendar, WebApi.`,
       ],
     },
   ];
   
   const EducationData = [
     {
-      name: "SISE",
-      status: "Desarrollo de Sistemas",
-      year: "Enero 2024 - Actualidad",
-    },
-    
+      name: "Universidad Tecnológica del Perú | Lima, Perú",
+      status: "Desarrollo de Software",
+      year: "Actualidad",
+    },    
     {
-      name: "Laboratoria",
-      status: "Front-End Developer",
+      name: "Laboratoria | Lima, Perú",
+      status: "Desarrollo Front-End",
       year: "Enero 2022 - Julio 2022",
+    },
+    {
+      name: "SISE | Lima, Perú",
+      status: "Software y Sistemas",
+      year: "Enero 2021 - Marzo 2024",
     },
   ];
   
   const CertificationData = [
+    {
+      name: "Curso de React.js",
+      source: "Platzi",
+      date: "Expedición Abril 2025 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/11887-course/diploma/detalle/",
+    },
+    {
+      name: "Curso de Fundamentos de JavaScript",
+      source: "Platzi",
+      date: "Expedición Abril 2025 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/10266-course/diploma/detalle/",
+    },
+    {
+      name: "Reto Alexa Skill Mujeres en Tecnología",
+      source: "Amazon Alexa Developers y Laboratoria",
+      date: "Expedición Diciembre 2022 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://drive.google.com/file/d/1ibGoU6WUf_L0yvZec7lihtj-Sg9K1LAg/view?usp=sharing",
+    },
+    {
+      name: "Hackathon del Talent Fest LATAM 2022",
+      source: "Laboratoria",
+      date: "Expedición Septiembre 2022 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://www.credential.net/cd5ce875-5955-4a64-a881-3bb75dc61235#acc.WcgkuBR8",
+    },
     {
       name: "Curso de ECMAScript 6+",
       source: "Platzi",
       date: "Expedición Agosto 2022 · Sin fecha de vencimiento",
       creditUrl:
         "https://platzi.com/p/carmen.herrera.anicama/curso/1815-course/diploma/detalle/",
+    },
+    {
+      name: "Curso de Diseño para Developers",
+      source: "Platzi",
+      date: "Expedición Agosto 2022 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/1906-course/diploma/detalle/",
+    },
+    {
+      name: "Curso de Responsive Design: Maquetación Mobile First",
+      source: "Platzi",
+      date: "Expedición Agosto 2022 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/2030-course/diploma/detalle/",
     },
     {
       name: "Curso Profesional de Git y GitHub",
@@ -122,6 +132,13 @@ const ExperienceData = [
       date: "Expedición Julio 2022 · Sin fecha de vencimiento",
       creditUrl:
         "https://platzi.com/p/carmen.herrera.anicama/curso/3093-course/diploma/detalle/",
+    },
+    {
+      name: "Fundamentos de Ingeniería de Software",
+      source: "Platzi",
+      date: "Expedición Junio 2022 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/1098-course/diploma/detalle/",
     },
     {
       name: "Curso Práctico de Frontend Developer",
@@ -150,6 +167,13 @@ const ExperienceData = [
       date: "Expedición Diciembre 2021 · Sin fecha de vencimiento",
       creditUrl:
         "https://platzi.com/p/carmen.herrera.anicama/curso/2467-frontend-developer/diploma/detalle/",
+    },
+    {
+      name: "Curso de Diseño Web con CSS Grid y Flexbox",
+      source: "Platzi",
+      date: "Expedición Diciembre 2021 · Sin fecha de vencimiento",
+      creditUrl:
+        "https://platzi.com/p/carmen.herrera.anicama/curso/2229-course/diploma/detalle/",
     },
   ];
   
